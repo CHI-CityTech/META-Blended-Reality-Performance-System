@@ -157,3 +157,32 @@ BRPS supports:
 * Audience-driven emergent behavior
 
 Ultimately, BRPS demonstrates how AI and human performers can **co-create** within a unified blended environment—advancing both artistic practice and foundational research in communicative symmetries.
+
+---
+
+## 7. Repository Structure & Navigation
+
+### 📖 Exploratory & Background
+- **[Balanced Blended Space Google Site](https://sites.google.com/view/balancedblendedspace/blended-reality-performance-system)** — Original BRPS concept, vision, and research foundation
+
+### 📋 Proposals & Design Specifications
+- **[`proposals/`](proposals/)** — Design frameworks and specifications ready for prototyping
+  - [Periaktos Prism Module (PPM) Design Spec](proposals/brps_periaktos_prism_module_engineering_specification_v_1.md) — Modular projection prism system (v1.0)
+  - [Proposals README](proposals/README.md) — Overview of all active design specs
+
+### 🛠️ Active & Completed Projects
+- **[`projects/`](projects/)** — Implementation projects and prototypes
+  - [SeaChange360](projects/SeaChange360/) — Immersive fabric testing & projection experimentation
+
+### 📁 Additional Resources
+- **[`documents/`](documents/)** — Policy documents, research notes, reference materials
+
+---
+
+## 8. Getting Started
+
+**If you are:**
+- **New to BRPS:** Start with the [Google Site](https://sites.google.com/view/balancedblendedspace/blended-reality-performance-system) for conceptual context
+- **Interested in building:** Review the [Proposals folder](proposals/) for current design specifications
+- **Working on a project:** See [`projects/`](projects/) for active implementations and SeaChange360 testing framework
+- **Contributing design specs:** Follow the format of the PPM spec and place in `proposals/`
