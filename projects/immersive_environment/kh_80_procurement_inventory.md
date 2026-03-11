@@ -189,3 +189,116 @@ with minimal hardware changes.
 
 All overhead installations will incorporate **redundant safety cables and rated rigging hardware**.
 
+
+---
+
+# Mounting Chain Diagrams
+
+Below are simplified mechanical stack diagrams for the three mounting environments.
+
+## 1. Floor Stand Configuration (Horizontal Speakers)
+
+```
+        [ Neumann KH80 Speaker ]
+                 │
+                 │  (M8 mount)
+                 ▼
+        [ LH61 Adjustable Bracket ]
+                 │
+                 │  (thread interface)
+                 ▼
+            [ LH29 Adapter ]
+                 │
+                 │  (3/8" stand thread)
+                 ▼
+        [ Microphone / Light Stand ]
+                 │
+                 ▼
+                 Floor
+```
+
+Safety tether (optional):
+
+```
+Speaker → safety cable → stand column
+```
+
+---
+
+## 2. 8020 Structural Frame Mount
+
+```
+        [ Neumann KH80 Speaker ]
+                 │
+                 ▼
+        [ LH61 Adjustable Bracket ]
+                 │
+                 ▼
+           [ Adapter Plate ]
+                 │
+                 ▼
+        [ 8020 T‑Slot Extrusion ]
+                 │
+                 ▼
+        [ Stage / Projection Frame ]
+```
+
+Typical hardware:
+
+```
+Adapter Plate
+   │
+   ├─ T‑slot bolts
+   └─ T‑slot nuts
+```
+
+---
+
+## 3. Overhead Grid Mount (Atmos Speakers)
+
+```
+        Lighting Grid Pipe (1.5" Sch‑40)
+                 │
+                 ▼
+            [ Half Coupler ]
+                 │
+                 ▼
+             [ Mount Plate ]
+                 │
+                 ▼
+        [ LH46 Telescoping Drop ]
+                 │
+                 ▼
+        [ LH61 Adjustable Bracket ]
+                 │
+                 ▼
+        [ Neumann KH80 Speaker ]
+```
+
+Safety tether:
+
+```
+Speaker → safety cable → grid pipe
+```
+
+---
+
+## 4. Wall Mount Option
+
+```
+        [ Neumann KH80 Speaker ]
+                 │
+                 ▼
+        [ LH61 Adjustable Bracket ]
+                 │
+                 ▼
+           [ Wall Plate / Anchor ]
+                 │
+                 ▼
+              Structural Wall
+```
+
+---
+
+These diagrams illustrate the **mechanical chain of components** in each configuration and should help vendors verify compatibility between the Neumann mounting hardware and the surrounding support structures.
+
