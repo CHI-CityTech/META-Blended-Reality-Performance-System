@@ -10,7 +10,19 @@ The system anticipates three primary mounting environments:
 2. 8020 structural frame mounting
 3. Overhead grid suspension (Atmos speakers)
 
-A consistent mounting interface is maintained so speakers can move between systems if necessary.
+A consistent mounting interface is maintained so speakers can move between systems if necessary.  
+
+The inventory list for thhese configurations can be found [here](https://docs.google.com/spreadsheets/d/1Y4ND_M3c1ZKv1S4Bs0K1mHY8vtbBrymCsntErgicCTM/edit?usp=sharing)  
+
+## TL;DR
+
+| Use | Count | Mechanical Chain | What It Is For |
+|---|---:|---|---|
+| Floor stand mounting | 7 speakers | Speaker -> LH61 Adjustable L-Bracket -> LH29 Stand Adapter -> Microphone / Lighting Stand | Primary horizontal bed channels: Left, Center, Right, Surround Left, Surround Right, Rear Left, Rear Right |
+| 8020 frame mounting | As needed | Speaker -> LH61 Adjustable L-Bracket -> Adapter Plate -> 8020 T-Slot Frame | Mounting speakers directly to the modular structural frame |
+| Overhead grid mounting | 4 speakers | Grid Pipe -> Half Coupler -> Mount Plate -> LH46 Telescoping Ceiling Drop -> LH61 Adjustable L-Bracket -> Speaker | ATMOS top channels: Top Front Left, Top Front Right, Top Rear Left, Top Rear Right |
+| Universal adapter option | As needed | Speaker -> LH64 VESA / Omnimount Adapter -> Third-Party Mount | Adapting KH-80 speakers to VESA, TV, monitor arm, or other third-party mounting systems |
+| Wall mounting option | As needed | Speaker -> LH61 Adjustable L-Bracket -> Wall Plate / Anchor System -> Structural Wall | Fixed wall-mounted installation where permanent placement is needed |
 
 ---
 
